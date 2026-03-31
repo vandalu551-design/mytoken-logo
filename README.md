@@ -1,0 +1,2 @@
+# mytoken-logo
+mytoken-logo
